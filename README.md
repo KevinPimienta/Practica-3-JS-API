@@ -1,2 +1,2 @@
-# Practica-3-JS-API
-API key peícula y clima
+### Practica-3-JS-API
+#### API's de películas y clima - JavaScript
